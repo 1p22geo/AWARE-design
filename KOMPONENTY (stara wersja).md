@@ -1,0 +1,40 @@
+- SAIL - pierwszy komponent do movementu
+	- Nie potrzebuje energii, porusza się gdzie mu każesz, ale powoli przyspiesza i się obraca
+	- Ciągnie całą sieć za sobą
+	- Jest bardziej wystawiony na ataki bo jest z przodu
+- JET - lepszy komponent movementu
+	- Potrzebuje energii i paliwa
+	- Dużo lepsze przyspieszenie, ale wymaga też chłodzenia dla dobrej pracy
+- BEAM - najprostszy atak
+	- Atakuje komponenty przeciwnika, od najbardziej wyeksponowanych/dostępnych
+	- Lepiej działa mając więcej energii lub synergie
+- OSCILATOR - generuje falę/częstotliwość do modulacji
+	- Modyfikuje/poprawia niektóre inne komponenty
+	- Wymaga energii
+- OSCILATOR + BEAM -> WAVE
+	- Światło jest falą.
+	- Atak który rozprzestrzenia się AoE
+- SYNCHTROTRON - początek akceleratora cząstek
+	- Modyfikuje/poprawia niektóre inne komponenty
+	- Wymaga energii
+- SYNCHROTRON + BEAM -> PARTICLE CANNON
+	- Światło jest cząstką.
+	- Interpretacja Copenhagen mechaniki kwantowej.
+	- Sniper rifle basically
+- REACTOR
+	- Generuje energię dla całej sieci
+	- Wzmacnia połączone bezpośrednio komponenty
+- REACTOR + PARTICLE CANNON -> BURST CANNON
+	- Wali kilka pocisków naraz.
+	- Wymaga zbiornika paliwa
+- COOLANT
+	- Zbiornik płynu chłodniczego.
+	- Wymagany dla niektórych komponentów, musi być zaraz obok, połączony bezpośrednio
+	- Wzmacnia wszystko połączone bezpośrednio
+- PROPELLANT
+	- Zbiornik paliwa
+	- Wymagany dla niektórych komponentów, musi być zaraz obok, połączony bezpośrednio
+- OSCILATOR + OSCILATOR + OSCILATOR -> RESONATOR
+	- LMMS mentioned? TripleOscilator?
+	- Wywołuje rezonans i/lub interferencję.
+	- Pozwala zakłócać komunikację lub rozwalać ściany, lecz wymaga precyzyjnego sterowania i dużo energii.
